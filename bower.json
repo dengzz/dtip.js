@@ -1,0 +1,26 @@
+{
+  "name": "dtip.js",
+  "description": "",
+  "main": "dtip.js",
+  "authors": [
+    "derek.deng"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dtip.js",
+    "dtipjs",
+    "dtip"
+  ],
+  "homepage": "https://github.com/dengzz/dtip.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
