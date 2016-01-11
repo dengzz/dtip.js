@@ -1,9 +1,10 @@
 {
   "name": "dtip.js",
-  "description": "",
+  "version": "1.0.0",
+  "description": "a simple jQeury toastr style plugin.",
   "main": "dtip.js",
   "authors": [
-    "derek.deng"
+    "derek.deng <deng.zz@qq.com>"
   ],
   "license": "MIT",
   "keywords": [
