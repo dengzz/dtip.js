@@ -38,8 +38,8 @@
         var textTag = document.createElement("span");
         $.extend(textTag.style, {
             background: "#000",
-            opacity: "0.6",
-            filter: "alpha(opacity=60)",
+            opacity: "0.8",
+            filter: "alpha(opacity=80)",
             zIndex: "-1",
             border: "1px solid #666",
             padding: "10px 20px",
